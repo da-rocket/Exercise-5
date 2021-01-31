@@ -14,7 +14,7 @@ Here is an example how to do it in MarkDown for user VuokkoH:
 
 Edit the text below and add links to the maps that you have created:
 
- - [My static map](https://github.com/da-rocket/Exercise-5/blob/main/docs/static_map.png)
- - [My interactive map](https://github.com/da-rocket/Exercise-5/blob/main/docs/interactive_map_employment_rate.html)
+ - [My static map](https://da-rocket.github.io/Exercise-5/static_map.png)
+ - [My interactive map](https://da-rocket.github.io/Exercise-5/interactive_map_employment_rate.html)
  - [Link to test map](https://autogis-2018.github.io/exercise-5-VuokkoH/test_map.html)
 
